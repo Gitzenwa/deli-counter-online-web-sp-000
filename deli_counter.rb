@@ -5,6 +5,6 @@ def line(array)
       puts "The line is currently: #{place}"
     end
   else
-    puts "The line is empty."
+    puts "The line is currently empty."
   end
 end
