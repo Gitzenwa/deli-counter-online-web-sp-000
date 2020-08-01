@@ -1,4 +1,4 @@
 # Write your code here.
-def line
-katz_deli = []
+def line(array)
+  katz_deli = []
 end
