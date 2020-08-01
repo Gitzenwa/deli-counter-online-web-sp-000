@@ -2,7 +2,7 @@
 def line(array)
   if array.length > 0
     array.each do |place|
-      
+
     end
     puts "The line is currently: #{place}"
   else
