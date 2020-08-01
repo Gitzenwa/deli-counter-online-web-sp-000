@@ -6,5 +6,4 @@ def line(array)
   end
   else
     puts "The line is empty."
-  end
 end
